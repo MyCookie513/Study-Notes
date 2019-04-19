@@ -1,20 +1,20 @@
-������زֿ���ƶ˲ֿ��в�һ�µĵط��ᷢ������?
-��ʱ
+如果本地仓库和云端仓库有不一致的地方会发生错误?
+这时
 
 git pull --rebase origin master
 
-�Crebase��������ȡ�������ؿ��иոյ�commit���������ǽӵ����º�İ汾��֮�С�
-�ܾ䣺
-1.��ȡ��commit��¼�����Ұ�������ʱ ����Ϊ����(patch)(��Щ�����ŵ���.git/rebase��Ŀ¼��)��
-2.֮��ͬ��Զ�̿⵽���أ�
-3.���ϲ����������ؿ�֮�С�
+–rebase的作用是取消掉本地库中刚刚的commit，并把他们接到更新后的版本库之中。
+总句：
+1.先取消commit记录，并且把它们临时 保存为补丁(patch)(这些补丁放到”.git/rebase”目录中)，
+2.之后同步远程库到本地，
+3.最后合并补丁到本地库之中。
 
 
 
 
 
-�����زֿ�ĸ��µ�Git?
-git checkout -b  "����һ���·�֧������"
+将本地仓库的更新到Git?
+git checkout -b  "创建一个新分支的名字"
 git commit -a -m "commit all files"
 git checkout master 
 git merge local-to-romote
@@ -24,13 +24,13 @@ git push origin master
 
 
 
-�ڿ�������һ���µ��ļ�?
-ls ��ʾ�ļ��б�
-git add "�µ��ļ�����
-git commit -m "���ĵ�ԭ��"
+在库中增加一个新的文件?
+ls 显示文件列表
+git add "新的文件名”
+git commit -m "更改的原因"
 git push origin master
 
 
-���Ա����޸�Git�Ƿ���޸�
+远程已经更新到本地；
 
 
