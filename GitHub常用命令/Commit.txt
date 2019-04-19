@@ -1,4 +1,4 @@
-如果本地仓库和云端仓库有不一致的地方会发生错误?
+﻿如果本地仓库和云端仓库有不一致的地方会发生错误?
 这时
 
 git pull --rebase origin master
@@ -31,6 +31,10 @@ git commit -m "更改的原因"
 git push origin master
 
 
-远程已经更新到本地；
+
+
+如何将远程的库拉取更新到本地？
+ git pull origin master 
+
 
 
