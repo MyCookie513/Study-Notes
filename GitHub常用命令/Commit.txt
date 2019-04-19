@@ -1,4 +1,4 @@
-如果本地仓库和云端仓库有不一致的地方会发生错误；
+如果本地仓库和云端仓库有不一致的地方会发生错误?
 这时
 
 git pull --rebase origin master
@@ -11,9 +11,26 @@ git pull --rebase origin master
 
 
 
-将本地仓库的更新到Git
+
+
+将本地仓库的更新到Git?
 git checkout -b  "创建一个新分支的名字"
 git commit -a -m "commit all files"
 git checkout master 
 git merge local-to-romote
 git push origin master
+
+
+
+
+
+在库中增加一个新的文件?
+ls 显示文件列表
+git add "新的文件名”
+git commit -m "更改的原因"
+git push origin master
+
+
+尝试本地修改Git是否会修改
+
+
