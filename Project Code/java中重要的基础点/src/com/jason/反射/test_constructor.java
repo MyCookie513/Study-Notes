@@ -21,7 +21,7 @@ public class test_constructor {
  
 	public static void main(String[] args) throws Exception {
 		//1.加载Class对象
-		Class clazz = Class.forName("com.jason.反射.Student");
+		Class clazz = Class.forName("com.jason.反射.Student_");
 		
 		
 		//2.获取所有公有构造方法

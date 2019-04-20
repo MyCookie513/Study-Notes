@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  
        xmlns:p="http://www.springframework.org/schema/p"
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans 
@@ -25,7 +26,7 @@
 <property name="pho_num" value="17864280604"></property>
 </bean> 
 
-
+ <!--    在这个地方注意声明命名空间    可见上方的标注源码 -->
 <!-- p命令空间解决setter注入： -->
 <!-- <bean id="PersonID" class="com.jason.DI_Setter.Person" p:age="21"
 p:name="jason" p:home_address-ref="homeAddressID" p:com_address-ref="companyAddressID">
