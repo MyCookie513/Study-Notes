@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="idea code" />
+        <module name="ssm" />
         <module name="Mabatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="idea__MybatisStudy" target="1.5" />
+      <module name="idea源码" target="1.5" />
+      <module name="Mabatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
