@@ -1,0 +1,5 @@
+package com.jason.a_AOP.°ë×Ô¶¯;
+
+public interface Student_service {
+	public void adduser();
+}

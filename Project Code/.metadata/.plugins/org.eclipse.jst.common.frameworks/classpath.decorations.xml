@@ -1,0 +1,17 @@
+<classpath>
+  <container id="Spring开发!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="G:/Study-Notes/Project Code/Spring开发/WebContent/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar">
+      <source-attachment-path>G:/important  file/Resouce/视频学习中Spring类库包/spring/spring-framework-4.2.4.RELEASE/源码/spring-tx-4.2.4.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="Spring_01!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="G:/Study-Notes/Project Code/Spring_01/WebContent/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar">
+      <source-attachment-path>G:/important  file/Resouce/spring类库包/spring-framework-5.1.2.RELEASE/libs/spring-core-5.1.2.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="Spring_study!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="G:/Study-Notes/Project Code/Spring_study/WebContent/WEB-INF/lib/spring-jdbc-5.1.2.RELEASE.jar">
+      <source-attachment-path>G:/important  file/Resouce/视频学习中Spring类库包/spring/spring-framework-4.2.4.RELEASE/源码/spring-jdbc-4.2.4.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
