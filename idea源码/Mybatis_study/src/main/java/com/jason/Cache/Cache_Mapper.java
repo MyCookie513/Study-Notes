@@ -1,4 +1,4 @@
-package com.jason.Cache;
+package com.jason;
 
 import com.jason.Mapper.User;
 
