@@ -21,19 +21,19 @@
 </style>
 <div  style="text-align:center">
     柱状图 <br><br>
-    点击生成柱状图<a href="<%=request.getContextPath()%>/data/getColumnChart.do">getMajorChart</a>
+    点击生成柱状图<a href="<%=request.getContextPath()%>data/getColumnChart.do">getMajorChart</a>
     <br><br>
     <img src="${chartColumnURL}" >
 </div>
 <div  style="text-align:center">
     饼状图 <br><br>
-    点击生成饼状图<a href="data/getColumnChart.do">getMajorChart</a>
+    点击生成饼状图<a href="data/getFoldLine">getMajorChart</a>
     <br><br>
     <img src="${chartPieURL}" >
 </div>
 <div  style="text-align:center">
     折线图 <br><br>
-    点击生成折线图<a href="/data/getLineChart.do">getMajorChart</a>
+    点击生成折线图<a href="data/getLineChart">getMajorChart</a>
     <br><br>
     <img src="${chartLineURL}" >
 </div>

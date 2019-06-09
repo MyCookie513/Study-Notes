@@ -10,7 +10,7 @@
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
 	<!-- 扫描controller -->
-	<context:component-scan base-package="com.sixmai.controller"></context:component-scan>
+	<context:component-scan base-package="com.controller"></context:component-scan>
 	<!-- 配置映射器和适配器 -->
 	<mvc:annotation-driven></mvc:annotation-driven>
 	<!-- 配置视图解析器 -->

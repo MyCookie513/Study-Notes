@@ -66,6 +66,14 @@ public class mainMBG {
         criteria.andNameLike("%u%");
         criteria.andSexEqualTo("男");
 
+        /*如果想表现或者的关系：则就需要另创建一个criteria 查询条件 */
+        CustomerExample.Criteria criteria1=customerExample.createCriteria();
+        criteria1.andAgeBetween(10,12);
+         /*将条件封装到 customerExample 中 or进去 第一个形成的查询条件不用装载，默认装载*/
+        customerExample.or(criteria1);
+
+
+
         List<Customer> customers =customerMapper.selectByExample(customerExample);
         for(Customer c: customers){
             System.out.println(c);

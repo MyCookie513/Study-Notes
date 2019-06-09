@@ -86,7 +86,9 @@
             insert into t_user(t_username,t_password,t_usercol,date,acount ) values  (#{user.t_username},#{user.t_password},#{user.t_usercol},#{user.date},#{user.acount.id})
         </foreach>
     </insert>
-
+    <insert id="BatchSave" >
+            insert into t_user(t_username,t_password,t_usercol,date,acount ) values  (#{t_username},#{t_password},#{t_usercol},#{date},#{acount.id})
+    </insert>
     <select id="SelectDynamictestBind" resultType="com.jason.Mapper.User">
         <bind name="_username" value="'%'+t_username+'%'"/>
         select * from t_user where  t_username like #{_username}

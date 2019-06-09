@@ -42,12 +42,17 @@
 <value>com.jason.ProxyTranster.service.AcountService</value>
 </array>
 </property>
+
+
+
 <property name="transactionAttributes"> 
 <props>
 <!-- 确定哪个方法操作是事务型操作，value是自定义事务型定义 -->
 <prop key="transfer_acount">PROPAGATION_REQUIRED,ISOLATION_DEFAULT</prop>
 </props>
 </property>
+
+
 </bean>
 
 </beans>

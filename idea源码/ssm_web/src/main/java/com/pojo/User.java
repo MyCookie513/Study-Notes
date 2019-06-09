@@ -1,4 +1,4 @@
-package com.sixmai.domain;
+package com.pojo;
 
 import java.io.Serializable;
 
@@ -79,7 +79,7 @@ public class User implements Serializable {
         if (getClass() != that.getClass()) {
             return false;
         }
-        User other = (User) that;
+        com.pojo.User other = (com.pojo.User) that;
         return (this.getId() == null ? other.getId() == null : this.getId().equals(other.getId()))
             && (this.getName() == null ? other.getName() == null : this.getName().equals(other.getName()))
             && (this.getLoginname() == null ? other.getLoginname() == null : this.getLoginname().equals(other.getLoginname()))

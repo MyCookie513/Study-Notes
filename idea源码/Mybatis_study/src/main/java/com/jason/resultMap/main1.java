@@ -13,9 +13,6 @@ import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class main1 {
@@ -34,7 +31,7 @@ public class main1 {
         session=factory.openSession();
         //4.使用Session创建接口的代理对象；
         userMapper=session.getMapper(UserMapper.class);
-        acountMapper=session.getMapper(AcountMapper.class);
+       // acountMapper=session.getMapper(AcountMapper.class);
 
     }
     @After

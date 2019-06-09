@@ -1,3 +1,5 @@
+package com.jason.generator;
+
 import org.junit.Test;
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;

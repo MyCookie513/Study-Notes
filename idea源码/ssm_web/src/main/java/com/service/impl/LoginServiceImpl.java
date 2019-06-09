@@ -1,8 +1,9 @@
-package com.sixmai.service.impl;
+package com.service.impl;
 
-import com.sixmai.domain.User;
-import com.sixmai.mapper.UserMapper;
-import com.sixmai.service.LoginService;
+
+import com.dao.UserMapper;
+import com.pojo.User;
+import com.service.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -19,8 +20,6 @@ public class LoginServiceImpl implements LoginService {
     @Override
     public Map<String, Object> login(String loginname, String password) {
         HashMap<String, Object> mm = new HashMap<>();
-      /*  UserExample userExample = new UserExample();
-        userExample.createCriteria().andLoginnameEqualTo(loginname);*/
         List<User> users = userMapper.login(loginname);
         String msg = "";
         if ((users.size() == 0)) {

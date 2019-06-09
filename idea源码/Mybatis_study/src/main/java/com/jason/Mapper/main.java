@@ -1,5 +1,8 @@
 package com.jason.Mapper;
 
+import com.github.pagehelper.Page;
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import com.jason.Interface.UserMapper;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -74,10 +77,16 @@ public class main {
     @Test
     public  void Selectall() throws IOException {
         //5.然后由代理对象执行方法；
+        Page<Object> page= PageHelper.startPage(1,1);
         List<User> users=userMapper.findAll();
+        PageInfo<User> pageInfo=new PageInfo(users,5);
         for(User user: users){
             System.out.println(user);
         }
+        System.out.println("当前页码"+page.getPageNum());
+        System.out.println("总记录数"+page.getTotal());
+        System.out.println("每页的大小"+page.getPageSize());
+        System.out.println("总页码数"+page.getPages());
     }
     /**
      * 测试查询单条记录的操作
@@ -86,9 +95,9 @@ public class main {
     @Test
     public  void SelectOne() throws IOException {
         //5.然后由代理对象执行方法；
-        User user=userMapper.findone(1);
-        System.out.println(user);
+
     }
+
 
     /**
      * 测试保存一条记录的操作
@@ -104,7 +113,13 @@ public class main {
         userMapper.SaveUser(user);
         System.out.println(user.getIdt_user());
     }
-
+    @Test
+    public void djfsdi(){
+        Status status=Status.LOGIN;
+        System.out.println("枚举的索引" +status.ordinal());
+        System.out.println("枚举的状态码" +status.getCode());
+        System.out.println("枚举的详细" +status.getMsg());
+    }
     /**
      * 更新一条记录的操作
      * @throws IOException

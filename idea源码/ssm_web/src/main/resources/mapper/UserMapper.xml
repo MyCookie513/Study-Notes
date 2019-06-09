@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.sixmai.mapper.UserMapper">
-  <resultMap id="BaseResultMap" type="com.sixmai.domain.User">
+<mapper namespace="com.dao.UserMapper">
+
+  <resultMap id="BaseResultMap" type="com.pojo.User">
     <id column="id" jdbcType="INTEGER" property="id" />
     <result column="name" jdbcType="VARCHAR" property="name" />
     <result column="loginName" jdbcType="VARCHAR" property="loginname" />
@@ -9,6 +10,8 @@
     <result column="sex" jdbcType="VARCHAR" property="sex" />
     <result column="age" jdbcType="INTEGER" property="age" />
   </resultMap>
+
+
   <sql id="Example_Where_Clause">
     <where>
       <foreach collection="oredCriteria" item="criteria" separator="or">
@@ -38,6 +41,11 @@
       </foreach>
     </where>
   </sql>
+
+
+
+
+
   <sql id="Update_By_Example_Where_Clause">
     <where>
       <foreach collection="example.oredCriteria" item="criteria" separator="or">
@@ -70,7 +78,7 @@
   <sql id="Base_Column_List">
     id, name, loginName, passWord, sex, age
   </sql>
-  <select id="selectByExample" parameterType="com.sixmai.domain.UserExample" resultMap="BaseResultMap">
+  <select id="selectByExample" parameterType="com.pojo.UserExample" resultMap="BaseResultMap">
     select
     <if test="distinct">
       distinct
@@ -92,23 +100,29 @@
       </if>
     </if>
   </select>
+
+
+
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
     select 
     <include refid="Base_Column_List" />
     from sys_user
     where id = #{id,jdbcType=INTEGER}
   </select>
+
+
+
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
     delete from sys_user
     where id = #{id,jdbcType=INTEGER}
   </delete>
-  <delete id="deleteByExample" parameterType="com.sixmai.domain.UserExample">
+  <delete id="deleteByExample" parameterType="com.pojo.UserExample">
     delete from sys_user
     <if test="_parameter != null">
       <include refid="Example_Where_Clause" />
     </if>
   </delete>
-  <insert id="insert" parameterType="com.sixmai.domain.User">
+  <insert id="insert" parameterType="com.pojo.User">
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
@@ -117,7 +131,7 @@
     values (#{name,jdbcType=VARCHAR}, #{loginname,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
       #{sex,jdbcType=VARCHAR}, #{age,jdbcType=INTEGER})
   </insert>
-  <insert id="insertSelective" parameterType="com.sixmai.domain.User">
+  <insert id="insertSelective" parameterType="com.pojo.User">
     <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
       SELECT LAST_INSERT_ID()
     </selectKey>
@@ -157,7 +171,7 @@
       </if>
     </trim>
   </insert>
-  <select id="countByExample" parameterType="com.sixmai.domain.UserExample" resultType="java.lang.Long">
+  <select id="countByExample" parameterType="com.pojo.UserExample" resultType="java.lang.Long">
     select count(*) from sys_user
     <if test="_parameter != null">
       <include refid="Example_Where_Clause" />
@@ -201,7 +215,7 @@
       <include refid="Update_By_Example_Where_Clause" />
     </if>
   </update>
-  <update id="updateByPrimaryKeySelective" parameterType="com.sixmai.domain.User">
+  <update id="updateByPrimaryKeySelective" parameterType="com.pojo.User">
     update sys_user
     <set>
       <if test="name != null">
@@ -222,7 +236,7 @@
     </set>
     where id = #{id,jdbcType=INTEGER}
   </update>
-  <update id="updateByPrimaryKey" parameterType="com.sixmai.domain.User">
+  <update id="updateByPrimaryKey" parameterType="com.pojo.User">
     update sys_user
     set name = #{name,jdbcType=VARCHAR},
       loginName = #{loginname,jdbcType=VARCHAR},

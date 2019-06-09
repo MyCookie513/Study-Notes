@@ -30,7 +30,7 @@ public class AcountServiceImpl implements AcountService {
 	public void transfer_acount(String user_out, String user_in, int money) {
      
 			userdao.outer(user_out, money);
-			//int i=3/0;
+			//int i=3/0;	
 			userdao.inner(user_in, money);
 			
 	}

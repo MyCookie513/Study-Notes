@@ -1,7 +1,8 @@
 package com.dao;
 
-import com.sixmai.domain.User;
-import com.sixmai.domain.UserExample;
+
+import com.pojo.User;
+import com.pojo.UserExample;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

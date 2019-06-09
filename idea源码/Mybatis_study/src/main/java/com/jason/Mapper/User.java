@@ -10,6 +10,15 @@ public class User implements Serializable {
     private String t_username;
     private String t_password;
     private Date date;
+    private Status status=Status.LOGIN;
+
+    public Status getStatus() {
+        return status;
+    }
+
+    public void setStatus(Status status) {
+        this.status = status;
+    }
 
     public User(int idt_user, int t_usercol, String t_username, String t_password, Date date, Acount acount) {
         this.idt_user = idt_user;

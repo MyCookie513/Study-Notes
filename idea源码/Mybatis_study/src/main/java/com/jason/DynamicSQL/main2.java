@@ -5,8 +5,8 @@ import com.jason.Mapper.Acount;
 import com.jason.Mapper.User;
 import com.jason.resultMap.AcountMapper;
 import com.jason.resultMap.UserMapper;
-import jdk.internal.dynalink.linker.LinkerServices;
 import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.ExecutorType;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
@@ -24,13 +24,14 @@ public class main2 {
     static UserMapper userMapper;
     static UserDynamicSqlMapper userDynamicSqlMapper;
     static AcountMapper acountMapper;
+    SqlSessionFactory factory;
     @Before
     public  void Init() throws IOException {
 
         //1.读取配置文件  : 1.environment :连接池和事务管理者；2.Mapper：DAO 接口方法的映射文件（内有id方法名和sql语句）：
         in= Resources.getResourceAsStream("SqlMapConfig.xml");
         //2.由SqlSessionFactoryBuilder创建SqlSessionFactory
-        SqlSessionFactory factory=new SqlSessionFactoryBuilder().build(in);
+        factory=new SqlSessionFactoryBuilder().build(in);
         //3.由sqlSessionFactory创建一个会话；session内部通过执行器来操纵数据库，和executor相关联的是MappedStatement：sql语句，输入参数，输出结果类型；
         session=factory.openSession();
         //4.使用Session创建接口的代理对象；
@@ -116,7 +117,23 @@ public class main2 {
         userDynamicSqlMapper.AddUsers(users);
 
     }
+    /**
+     * foreach   进行批量保存
+     * @param
+     * @throws IOException
+     */
+    @Test
+    public  void    BatchSave()  {
+        SqlSession session=factory.openSession(ExecutorType.BATCH);
+        UserDynamicSqlMapper userBatchmapper=session.getMapper(UserDynamicSqlMapper.class);
 
+       for(int i=0;i<100;i++){
+           userBatchmapper.BatchSave(new User(2,UUID.randomUUID().toString().substring(0,5) ,"1235689" ,new Date(),new Acount(1)));
+
+       }
+
+
+    }
     /**
      * foreach   进行批量保存
      * @param
@@ -132,6 +149,10 @@ public class main2 {
         }
 
     }
+
+
+
+
 
 }
 

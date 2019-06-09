@@ -5,9 +5,180 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3318195-ed80-4336-860c-698d4c4d04b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mybatis_study/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/generator/mainMBG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/generator/mbg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/22.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1354114812.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1354114812.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2896732160.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2896732160.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3254915422.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/4284867040.translator" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/4284867040.translator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Spring开发/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Spring开发/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Spring开发/src/com/jason/AOP_transter_Annotation/Service/AcountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Spring开发/src/com/jason/AOP_transter_Annotation/Service/AcountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/Spring开发/src/com/jason/ProxyTranster/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Spring开发/src/com/jason/ProxyTranster/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/~$SQL_Study.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Spring/Spring开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Spring/Spring开发.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/Spring/Spring框架.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Spring/Spring框架.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/mybatis/Mybatis.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/mybatis/Mybatis.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/DP/info.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/DP/info.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/DP/~$info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea code/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../idea code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../idea code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../idea code/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/ServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/ServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/$Proxy0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/$Proxy0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/动态代理/较详细版/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/反射/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/反射/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/反射/test_Fields.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/反射/test_Fields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Important_Point_java/src/main/java/反射/test_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/反射/test_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/Cache/Cache_Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/Cache/Cache_Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/Cache/main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/Cache/main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/DynamicSQL/main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/DynamicSQL/main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/resultMap/main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/java/com/jason/resultMap/main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/target/classes/com/jason/Cache/main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/target/classes/com/jason/Cache/main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/target/classes/com/jason/DynamicSQL/main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/target/classes/com/jason/DynamicSQL/main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mybatis_study/target/classes/com/jason/resultMap/main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Mybatis_study/target/classes/com/jason/resultMap/main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comssm2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comssm2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comssm2/comssm2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/.idea/libraries/Spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/ssm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/com/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/com/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/com/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/com/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/com/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/com/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/com/pojo/UserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/com/pojo/UserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/com/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/com/service/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/com/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/com/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/application-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/application-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/application-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/application-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/mybatis.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/mybatis.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/src/main/resources/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm_web/ssm_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm_web/ssm_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/Cache/Cache_Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/Cache/main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/DynamicSQL/UserDynamicSqlMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/DynamicSQL/main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/Interface/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/Mapper/Acount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/Mapper/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/Mapper/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/resultMap/AcountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/resultMap/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/jason/resultMap/main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/Config/SqlMapConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Cache/Cache_Mapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Cache/Cache_Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Cache/main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/DynamicSQL/UserDynamicSqlMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/DynamicSQL/main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Interface/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Interface/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Mapper/Acount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Mapper/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/Mapper/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/resultMap/AcountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/resultMap/AcountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/resultMap/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/resultMap/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/com/jason/resultMap/main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/DP/info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/DP/~$info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/KMP/info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构及算法强化/欧拉回路/单词拼接/Info.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../testone/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +191,29 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/非连续_最长公共字串.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DP/Regular_Expression_Matching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +236,8 @@
         <option value="$PROJECT_DIR$/src/线段树/遍历比较最普通的zuofa.java" />
         <option value="$PROJECT_DIR$/src/线段树/遍历比较最普通的做法.java" />
         <option value="$PROJECT_DIR$/src/线段树/Query_Range_Update_Range.java" />
+        <option value="$PROJECT_DIR$/src/DP/非连续_最长公共字串.java" />
+        <option value="$PROJECT_DIR$/src/DP/Regular_Expression_Matching.java" />
       </list>
     </option>
   </component>
@@ -74,6 +269,12 @@
               <item name="数据结构及算法强化" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="数据结构及算法强化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构及算法强化" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -84,12 +285,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/欧拉回路/Johns_trip" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Study-Notes\idea源码\数据结构及算法强化\src\欧拉回路\Johns_trip" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Query_Range_Update_Range">
+  <component name="RunManager" selected="Application.Regular_Expression_Matching">
     <configuration name="遍历比较最普通的做法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="线段树.遍历比较最普通的做法" />
       <module name="数据结构及算法强化" />
@@ -143,12 +350,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="求区间的最大值__以及更新单个数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="线段树.求区间的最大值__以及更新单个数据" />
+    <configuration name="Regular_Expression_Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Regular_Expression_Matching" />
       <module name="数据结构及算法强化" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="线段树.*" />
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="非连续_最长公共字串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.非连续_最长公共字串" />
+      <module name="数据结构及算法强化" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,10 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Regular_Expression_Matching" />
+        <item itemvalue="Application.非连续_最长公共字串" />
         <item itemvalue="Application.Query_Range_Update_Range" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.遍历比较最普通的做法" />
-        <item itemvalue="Application.求区间的最大值__以及更新单个数据" />
       </list>
     </recent_temporary>
   </component>
@@ -178,17 +399,19 @@
       <workItem from="1557298857788" duration="14697000" />
       <workItem from="1557326420336" duration="13000" />
       <workItem from="1557407505145" duration="23300000" />
+      <workItem from="1558869448828" duration="3225000" />
+      <workItem from="1559298008101" duration="12173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39307000" />
+    <option name="totallyTimeSpent" value="55125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24626866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17270789" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -332,6 +555,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="51" selection-start-line="14" selection-start-column="3" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/欧拉回路/Johns_trip/大佬的程序">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/非连续_最长公共字串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Regular_Expression_Matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

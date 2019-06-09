@@ -17,7 +17,7 @@ public interface UserDynamicSqlMapper {
       void Update_user_set(User user);
       List<User> SelectUserByDy123(List<Integer> Inlist);
       void AddUsers(@Param("users") List<User> users);
-
+      void BatchSave(User user);
       /*利用bind标签可以利用OGNL表达式创建一个变量并把它绑到一个上下文中*/
 
     List<User>  SelectDynamictestBind(@Param("t_username") String str);

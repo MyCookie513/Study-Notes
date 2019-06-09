@@ -28,7 +28,7 @@
 
     <!---->
    <insert id="SaveUser" parameterType="user" useGeneratedKeys="true" keyProperty="idt_user">
-        insert into t_user(t_username,t_password,t_usercol,date) values(#{t_username},#{t_password},#{t_usercol},#{date});
+        insert into t_user(t_username,t_password,t_usercol,date,status) values(#{t_username},#{t_password},#{t_usercol},#{date},#{status});
     </insert>
     <delete id="DeleteUser" parameterType="user">
         delete from t_user where idt_user=#{id};

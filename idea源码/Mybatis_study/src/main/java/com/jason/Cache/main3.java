@@ -2,10 +2,7 @@ package com.jason.Cache;
 
 
 import com.jason.DynamicSQL.UserDynamicSqlMapper;
-import com.jason.Mapper.Acount;
 import com.jason.Mapper.User;
-import com.jason.resultMap.AcountMapper;
-import com.jason.resultMap.UserMapper;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
@@ -16,16 +13,13 @@ import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
 import java.util.List;
 
 public class main3 {
     SqlSession session;
     InputStream in;
     static  SqlSessionFactory factory;
-    static     Cache_Mapper cache_mapper;
+    static Cache_Mapper cache_mapper;
     static UserDynamicSqlMapper userDynamicSqlMapper;
 
     @Before
