@@ -13,7 +13,7 @@
         <discriminator javaType="integer" column="acount">
             <!--如果是部门1 的人员则进行部门信息的查询-->
             <case value="1" resultType="com.jason.Mapper.User">
-                <association property="acount" column="idt_user" select="com.jason.resultMap.AcountMapper.getAcountById"/>
+                <association property="acount" column="acount" select="com.jason.resultMap.AcountMapper.getAcountById"/>
             </case>
             <!-- 如果是部门2 OR　３则进行修改参数值的操作 -->
             <case   value="2" >
@@ -65,7 +65,6 @@
         <result column="t_username" property="t_username"/>
         <result column="t_password" property="t_password"/>
         <result column="date" property="date"/>
-
     </resultMap>
     <select id="getUsersByacoutstep2" resultMap="step2">
         select * from t_user  where acount=#{id}

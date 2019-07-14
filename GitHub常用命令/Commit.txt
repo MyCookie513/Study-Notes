@@ -38,3 +38,14 @@ git push origin master
 
 
 
+如何将本地想云端提交的版本回退？
+git reflog
+git  reset --hard 4c69115 
+
+这个也是将本地 的仓库更新到缓存
+
+$ git add * //把本地仓库的文件上传到缓存。
+$ git commit -m 'del' //把第一步上传到缓存的东西上传到本地仓库，其中'del'是操作标识，内容随便填，方便用户观看。
+$ git push origin master //把本地仓库的文件上传到远程仓库
+
+

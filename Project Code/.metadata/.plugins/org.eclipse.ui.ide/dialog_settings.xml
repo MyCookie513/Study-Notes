@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="G:\电商项目毕设\项目源码\squirrel"/>
+		<item value="C:\Users\Jack.xue\Desktop\模式识别\PCATest-master"/>
+		<item value="C:\Users\Jack.xue\Desktop\模式识别\ANN-master"/>
+		<item value="C:\Users\Jack.xue\Desktop\模式识别\Bayes-master"/>
 		<item value="E:\ArtFire"/>
 		<item value="E:\swing"/>
 		<item value="G:\GitHub网上资源\ICQ-master\ICQ-master\ICQServer"/>
@@ -13,6 +17,13 @@
 		<item value="G:\Study-Notes\Project Code\Spring_AOP"/>
 		<item value="G:\Study-Notes\Project Code"/>
 	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="417" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="242" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="NewWizardAction">
 		<item value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">

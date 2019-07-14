@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaCharts" />
+        <module name="textClassify" />
         <module name="Mybatis_study" />
+        <module name="JavaCharts" />
       </profile>
     </annotationProcessing>
   </component>

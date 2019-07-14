@@ -6,12 +6,17 @@ import java.util.List;
 public class Acount implements Serializable {
     private  int id ;
     private  int money;
+
+
     private String user;
     private List<User> users;
 
+    public Acount() {
+    }
+
     public Acount(int id) {
         this.id = id;
-    }
+}
 
     public List<User> getUsers() {
         return users;

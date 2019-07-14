@@ -43,10 +43,10 @@ class threaddemo implements Callable<Integer>{
 		int sum=0;
 		for(int i=0;i<3000;i++) {
 		sum+=i;
-		System.out.println(i);
+		
 		}
 		
-		
+		System.out.println(sum);
 		return sum;
 	}
 	

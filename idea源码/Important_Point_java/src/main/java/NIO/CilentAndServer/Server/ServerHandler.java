@@ -1,4 +1,4 @@
-package NIO;
+package NIO.CilentAndServer.Server;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -11,7 +11,6 @@ import java.util.Iterator;
 import java.util.Set;
 /**
  * NIO服务端
- * @author yangtao__anxpp.com
  * @version 1.0
  */
 public class ServerHandler implements Runnable{

@@ -1,4 +1,6 @@
-package Ïß³Ì³Ø;
+package ThreadPool;
+
+
 
 import java.util.Random;
 import java.util.concurrent.Callable;
@@ -14,21 +16,21 @@ public class test_ScheduleThreadpool {
 	public static void main(String[] args) throws InterruptedException, ExecutionException {
 		Xuexue xuexue=new Xuexue();
 		ScheduledExecutorService ScheduledPool=Executors.newScheduledThreadPool(5);
-		//µ÷¶È½øÐÐÉèÖÃÃ¿ÈýÃëÖ´ÐÐÒ»´Î£»
+
 		for(int i=0;i<5;i++) {
+			//ä»£è¡¨çš„æ˜¯å‘¨æœŸæ€§æ‰§è¡Œ5æ¬¡æ¯æ¬¡ä¸­é—´é—´éš”3ç§’
 			Future<Integer> result=ScheduledPool.schedule(xuexue,3,TimeUnit.SECONDS);
-			
+
 			System.out.println(result.get());
-			
 		}
 		ScheduledPool.shutdown();
 		
 	}
 }
+
+//å…·æœ‰è¿”å›žå€¼å€¼çš„çº¿ç¨‹
 class Xuexue implements Callable<Integer>{
 	private int sum=0;
-
-	@Override
 	public Integer call() throws Exception {
 		sum+=new Random().nextInt(10);
 		System.out.println(Thread.currentThread().getName()+":"+sum);

@@ -1,4 +1,4 @@
-package NIO;
+package NIO.CilentAndServer.Server;
 
 
 import java.util.Scanner;

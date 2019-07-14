@@ -13,10 +13,10 @@
     </settings>
 
 
+  <!--  会使用 Bean 的首字母小写的非限定类名来作为它的别名。-->
     <typeAliases>
         <!--<typeAlias type="com.jason.Interface.UserMapper" ></typeAlias>-->
         <package name="com.jason"/>
-
     </typeAliases>
     <typeHandlers>
         <typeHandler handler="com.jason.typehandlers.EnumTypeHandler" javaType="com.jason.Mapper.Status"/>

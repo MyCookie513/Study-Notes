@@ -1,4 +1,4 @@
-package NIO;
+package NIO.CilentAndServer.Client;
 
 
 import java.io.IOException;

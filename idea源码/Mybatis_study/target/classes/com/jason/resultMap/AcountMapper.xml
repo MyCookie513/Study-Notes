@@ -7,7 +7,7 @@
 
 
     <select id="getAcountById" resultType="com.jason.Mapper.Acount">
-         select user,money from acount where id = #{acountId}
+         select * from acount where id = #{acountId}
     </select>
 
 

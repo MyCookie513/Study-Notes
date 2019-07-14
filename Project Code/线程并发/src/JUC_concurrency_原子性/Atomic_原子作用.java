@@ -1,11 +1,6 @@
 package JUC_concurrency_д­згад;
 
 
-
-
-
-
-
 import java.util.concurrent.atomic.AtomicInteger;
 
 class AtomicDemo  implements Runnable {
@@ -22,7 +17,6 @@ class AtomicDemo  implements Runnable {
         try {
             Thread.sleep(200);
         } catch (InterruptedException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 

@@ -21,6 +21,7 @@
     <select id="findAll" resultType="com.jason.Mapper.User">
     select * from t_user
   </select>
+
     <select id="findone" resultType="user" databaseId="mysql">
     select * from t_user where idt_user = #{idn,jdbcType=NULL};
 

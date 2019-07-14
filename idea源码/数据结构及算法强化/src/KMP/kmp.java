@@ -2,9 +2,19 @@ package KMP;
 
 import java.io.BufferedInputStream;
 import java.util.Scanner;
-
+/**
+ *题目：          求子串在主串的最小匹配位置；
+ */
  class Kmp {
-
+     public static void main(String[] args) {
+         Scanner cin = new Scanner(new BufferedInputStream(System.in));
+         int n = cin.nextInt();
+         while(n-- > 0){
+             String s = cin.next();//主串
+             String p = cin.next();//匹配串
+             System.out.println(kmp(s,p));
+         }
+     }
      /**题目：          求子串在主串的最小匹配位置；
       *主串中已经匹配的字符串相当于kmp中的头节点主串
       * @param s： 主字符串
@@ -65,13 +75,5 @@ import java.util.Scanner;
         }
         return next;
     }
-    public static void main(String[] args) {
-        Scanner cin = new Scanner(new BufferedInputStream(System.in));
-        int n = cin.nextInt();
-        while(n-- > 0){
-            String s = cin.next();//主串
-            String p = cin.next();//匹配串
-            System.out.println(kmp(s,p));
-        }
-    }
+
 }

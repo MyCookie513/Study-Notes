@@ -16,7 +16,7 @@ public class 快速排序 {
 
 
     /**
-     *整体： 总Dynamic循环里面嵌套两个小Dynamic循环
+     *整体： 总Dynamic循环里面嵌套两个小Dynamic循环   +    递归完成
      * @param a
      * @param L
      * @param R

@@ -9,5 +9,9 @@
         <module name="Important_Point_java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="readImage" target="1.5" />
+      <module name="textClassify" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

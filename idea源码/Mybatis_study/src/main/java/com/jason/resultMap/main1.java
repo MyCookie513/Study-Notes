@@ -31,7 +31,7 @@ public class main1 {
         session=factory.openSession();
         //4.使用Session创建接口的代理对象；
         userMapper=session.getMapper(UserMapper.class);
-       // acountMapper=session.getMapper(AcountMapper.class);
+        acountMapper=session.getMapper(AcountMapper.class);
 
     }
     @After
@@ -68,9 +68,8 @@ public class main1 {
     @Test
     public  void Select_user_acount()  {
         //5.然后由代理对象执行方法；
-      User user=userMapper.getUserByStep(1);
+        User user=userMapper.getUserByStep(1);
         System.out.println(user);
-
         System.out.println(user.getAcount());
 
     }
@@ -85,9 +84,24 @@ public class main1 {
     public  void Select_Acount_users()  {
        Acount acount=acountMapper.getAcountByIdStep(1);
         System.out.println(acount.getMoney());
-        //System.out.println(acount.getUsers());
+        System.out.println(acount.getUsers());
 
     }
 
+
+    @Test
+    public  void Select_Acount()  {
+        Acount acount=acountMapper.getAcountById(1);
+        System.out.println(acount.getMoney());
+        System.out.println(acount.getUser());
+
+    }
+    @Test
+    public  void Select_AcountByPlus()  {
+        Acount acount=acountMapper.getAcountByIdPlus(1);
+        System.out.println(acount.getUsers());
+
+
+    }
 }
 
