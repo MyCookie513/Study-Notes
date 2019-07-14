@@ -5,6 +5,174 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3318195-ed80-4336-860c-698d4c4d04b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ajax_study/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ann/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ann/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ann/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ann/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ArtFire2.0/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/DataMining/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/DataMining/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/DataMining/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/DataMining/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/DataMining/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/DataMining/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQClient/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQClient/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/PCATest/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/PCATest/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/PCATest/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/PCATest/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/PCATest/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/PCATest/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/YaShiBaby/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/apache_struts/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/biluservlet/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java_homework/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java_homework/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/java中重要的基础点/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/squirrel/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_jack/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/swing/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/test_hibernate_mapping_sql/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/web前端学习/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/数据结构与算法/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/线程并发/.syncinfo.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.root/35.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/35.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/Atomic_原子作用.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/CopyonwriteArrayList.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/Jframe.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/Main (2).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/Main (3).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/MainClass.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/PCATest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/Test_static_factory.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/Test_static_factory.spring_static_factory_create_new.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/chat_Client.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/回文数__动态规划.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1003404219.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1205656229.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1504780522.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1635740338.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1660984067.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1808013843.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1901988212.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/1975164936.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2093487546.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2490058649.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2492328042.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2568446260.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2783397593.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/2905825963.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3029827932.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3074354503.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3081071613.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3131936495.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3293962882.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3361592733.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3532164912.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/353964436.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3563264534.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3638763776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3732658843.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/3848300678.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/4036564447.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/407381727.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/4169149159.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/4178392068.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/420512009.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/4213568383.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/425057506.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/531563734.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/694949352.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/8002508.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/802503829.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.core/831227584.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1041462145.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1424321992.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1737477421.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2031811341.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2386412397.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2460977927.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2474226281.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2775205622.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2913450875.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2971310392.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3011430362.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3789993172.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4010893866.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4139899485.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/532823900.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/776918500.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/833490532.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/962851817.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/531563734.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/1139884729.translator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/2482536326.translator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/6/27/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/6/27/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/ArtFire2.0/2019/6/25/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/ArtFire2.0/2019/6/25/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/swing/2019/6/25/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/swing/2019/6/25/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/线程并发/2019/6/24/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/线程并发/2019/6/24/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1041836755.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1289123890.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1711747101.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/391988109.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/460403272.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/563632496.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/696877860.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/907126197.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/988872428.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/531563734.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/1041462145.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/1737477421.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/2474226281.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/2775205622.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/2913450875.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/3011430362.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/4010893866.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/776918500.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/ArtFire2.0/build/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/Spring_AOP/build/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/biluservlet/build/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/struts2_jack/build/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Code/线程并发/build/classes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/欧拉回路/单词拼接/~$Info.doc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/ThreadCloseGraceful/interrupt中断结束.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/ThreadCloseGraceful/优雅的结束一个阻塞的线程/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第一阶段/ThreadCloseGraceful/优雅的结束一个阻塞的线程/ThreadService.java" afterDir="false" />
@@ -71,6 +239,155 @@
       <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/SharedData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/WriteWork.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/main/java/高并发第二阶段/读写串行并行方式分离/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/testNIO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/src/testNIOCopy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/NIO/CilentAndServer/Client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/NIO/CilentAndServer/Client/ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/NIO/CilentAndServer/Server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/NIO/CilentAndServer/Server/ServerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/NIO/test_FileChannel_and_bytebuffer/channel__buffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/ThreadPool/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/ThreadPool/Xuexue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/ThreadPool/test_ScheduleThreadpool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/Timer/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/Timer/delay_time_run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/testNIO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/testNIOCopy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/拷贝/list深层copy$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/拷贝/list深层copy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Alternate_printf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock_三个线程依次调用/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Consumer0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Lock机制_ProviderAndConsumer__唤醒等待机制.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Mark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Mark0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/Ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/product0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_Lock锁/synchronized机制_providerAndConsumer_等待唤醒机制.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_concurrency_原子性/AtomicDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_concurrency_原子性/Atomic_原子作用.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_concurrency_原子性/CAS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_concurrency_原子性/CopyonwriteArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_concurrency_原子性/TestCAS$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/JUC_concurrency_原子性/TestCAS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/Worker0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/interrupt中断结束.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/优雅的结束一个阻塞的线程/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/优雅的结束一个阻塞的线程/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/优雅的结束一个阻塞的线程/ThreadService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/优雅的结束一个阻塞的线程/ThreadService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadCloseGraceful/标志位结束.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadGroup/ThreadGroupCteater$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadGroup/ThreadGroupCteater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadStackTrace/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadStackTrace/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/ThreadStackTrace/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/callable接口创建线程/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/callable接口创建线程/Thread_Callable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/countdownlatch_闭锁/CountDownDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/countdownlatch_闭锁/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿心跳/Main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿心跳/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿心跳/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿显式锁Lock实现/BooleanLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿显式锁Lock实现/Lock$TimeoutException0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿显式锁Lock实现/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿显式锁Lock实现/LockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池__始终维持5个线程数/ThreadService0$Control.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池__始终维持5个线程数/ThreadService0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池简易实现/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池简易实现/SimpleThreadPool$DiscardExeception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池简易实现/SimpleThreadPool$DiscartPolicy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池简易实现/SimpleThreadPool$TaskState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池简易实现/SimpleThreadPool$TaskThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/仿线程池简易实现/SimpleThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/死锁/main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/死锁/main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/死锁/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/死锁/解决死锁$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/死锁/解决死锁$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/死锁/解决死锁.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/线程中止后的一些操作/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第一阶段/线程中止后的一些操作/线程抛出异常后的一些操作.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/Aotmic/AtomicIntegerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/Aotmic/AtomicIntegerTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/Aotmic/CAS创建一个Lock/CompareAndSetlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/Aotmic/CAS创建一个Lock/GetLockException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicReference/Main$Simple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicReference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest$Simple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReferenceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReference___Integer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReference___Integer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/AtomicStampedReference/AtomicStampedReference___Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第三阶段/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/AsynFuture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Future.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/FutureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/FutureTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Future设计模式的实现/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6$InstanceHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8$Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/SingletonObject8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/Singleton/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/VolatileTest/VolatileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/Immutable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/ImmutableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/SynObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/Syn和Immutable的区别.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/immutable不可变的设计模式/usePersonThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/waitSet/WaitSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/BinaryObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/OctalObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/LifeCycleListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable$RunnableState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ObservableRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/Test$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/观察者设计模式/线程观察者模式/ThreadLifeCycleObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/Gate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/ReadWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/ReadWriteLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/SharedData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/ReadWriteLock/WriteWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Important_Point_java/target/classes/高并发第二阶段/读写串行并行方式分离/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/DP/动态区间最大值.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/DP/字符串之间转换的最小操作数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/DP/组合硬币.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/Mian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/二叉树/BinaryTree$1NodeFlag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/二叉树/BinaryTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/二叉树/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/二叉树/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/排序/堆排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/数据结构及算法强化/排序/归并排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/动态区间最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mian.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/二叉树/BinaryTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/二叉树/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/排序/堆排序.java" afterDir="false" />
@@ -89,10 +406,10 @@
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/ICQServer/org.eclipse.jdt.core/state.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/.markers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_AOP/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ann/.indexes/properties.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/.location" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/.markers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/org.eclipse.egit.core/GitProjectData.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/org.eclipse.egit.core/GitProjectData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Ann/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring_study/org.eclipse.jdt.core/state.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/.markers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.projects/Spring开发/org.eclipse.jdt.core/state.dat" beforeDir="false" />
@@ -122,7 +439,7 @@
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/ArtFire2.0.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/ArtFire2.0.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/squirrel.launch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/test.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.core/.launches/test.launch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
@@ -179,16 +496,16 @@
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/11163905.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1168463374.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/124162936.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1387541180.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1638925488.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1663500185.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1864045067.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/11163905.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/959574872.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1168463374.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1871590840.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/124162936.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1145712183.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1387541180.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1984097467.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1638925488.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/142270647.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1663500185.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/42738914.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1864045067.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/1456037774.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/845381073.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2097834697.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2097834697.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/3789993172.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/382194693.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/382194693.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
@@ -198,16 +515,16 @@
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.frq" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.nrm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.prx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.tii" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.fdt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.fdx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.fnm" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.fnm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.frq" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.frq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.nrm" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.nrm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.prx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.prx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.tii" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.tii" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_a.tis" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_b.tis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_b" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/Ajax_study/build/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Ajax_study/build/classes/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/Servers/Tomcat v8.5 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project Code/Servers/Tomcat v8.5 Server at localhost-config/server.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project Code/线程并发/build/classes/JUC_Lock锁/package-info.class" beforeDir="false" />
@@ -224,7 +541,7 @@
       <change beforePath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/Point/准备笔记.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/SQL/MYSQL_Study.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/KMP/KMP.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/KMP/KMP.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/~$高并发笔记.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/~$高并发笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/数据结构和算法基础/算法笔记/KMP/~$KMP.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Study Notes/高并发/高并发笔记.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Important_Point_java/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Important_Point_java/.idea/encodings.xml" afterDir="false" />
@@ -327,10 +644,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/排序/堆排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="696">
               <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
             </state>
           </provider>
@@ -349,10 +666,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KMP/最短回文.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1752">
+            <state relative-caret-position="-352">
               <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -462,7 +779,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
@@ -688,18 +1005,18 @@
       <workItem from="1561608564046" duration="20341000" />
       <workItem from="1561942894072" duration="11177000" />
       <workItem from="1562203798616" duration="11070000" />
-      <workItem from="1562926318506" duration="578000" />
+      <workItem from="1562926318506" duration="1188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117586000" />
+    <option name="totallyTimeSpent" value="118196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09270517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17477204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -904,16 +1221,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KMP/最短回文.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1752">
-          <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/二叉树/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1920">
@@ -965,8 +1272,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/排序/堆排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="696">
           <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KMP/最短回文.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352">
+          <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
